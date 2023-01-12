@@ -57,8 +57,8 @@ const content = [
     },
     {
         id:7,
-        buyer: "Mantri kshipra",
-        location:"",
+        buyer: "Mantri Collection",
+        location:"Kshipra",
         date:"10-01-2023",
         seller:"kala shri saree",
         payment:""
